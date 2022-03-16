@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 971b893cac678da4fbe337790c03e143
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: One Eyed Bat
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: Rig
+  - first:
+      1: 100006
+    second: RigLArm1
+  - first:
+      1: 100008
+    second: RigLArm1Gizmo
+  - first:
+      1: 100010
+    second: RigLArm2
+  - first:
+      1: 100012
+    second: RigLArm2Gizmo
+  - first:
+      1: 100014
+    second: RigLArm3
+  - first:
+      1: 100016
+    second: RigLArm3Gizmo
+  - first:
+      1: 100018
+    second: RigMain
+  - first:
+      1: 100020
+    second: RigMainGizmo
+  - first:
+      1: 100022
+    second: RigRArm1
+  - first:
+      1: 100024
+    second: RigRArm1Gizmo
+  - first:
+      1: 100026
+    second: RigRArm2
+  - first:
+      1: 100028
+    second: RigRArm2Gizmo
+  - first:
+      1: 100030
+    second: RigRArm3
+  - first:
+      1: 100032
+    second: RigRArm3Gizmo
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: One Eyed Bat
+  - first:
+      4: 400004
+    second: Rig
+  - first:
+      4: 400006
+    second: RigLArm1
+  - first:
+      4: 400008
+    second: RigLArm1Gizmo
+  - first:
+      4: 400010
+    second: RigLArm2
+  - first:
+      4: 400012
+    second: RigLArm2Gizmo
+  - first:
+      4: 400014
+    second: RigLArm3
+  - first:
+      4: 400016
+    second: RigLArm3Gizmo
+  - first:
+      4: 400018
+    second: RigMain
+  - first:
+      4: 400020
+    second: RigMainGizmo
+  - first:
+      4: 400022
+    second: RigRArm1
+  - first:
+      4: 400024
+    second: RigRArm1Gizmo
+  - first:
+      4: 400026
+    second: RigRArm2
+  - first:
+      4: 400028
+    second: RigRArm2Gizmo
+  - first:
+      4: 400030
+    second: RigRArm3
+  - first:
+      4: 400032
+    second: RigRArm3Gizmo
+  - first:
+      43: 4300000
+    second: One Eyed Bat
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: One Eyed Bat
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 1ae22926404098641bb4b83e9e4debca
+  - be392b1a836960643819896074bb7ef6
+  - d86eb0dccd327704d9de58edefdf3940
+  - 0e28ed2c92a2d9a4f9ecce7846c1b259
+  - 4cf8f1cabd1bd6a4e91ef78238cb7500
+  - a6496e05915833e41b7fc172322eb340
+  - 7f2945911da816b42a4c3b068383470b
+  - 736c89f4c8fe7344dbee211400ff5956
+  - a7901318feefa9f43a12dfc68f70cc3a
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

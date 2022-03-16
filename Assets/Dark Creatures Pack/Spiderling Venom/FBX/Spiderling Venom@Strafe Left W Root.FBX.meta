@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: 4d6fb311e3567c74abbc144a27dd2794
+timeCreated: 1549363686
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Rig
+    100002: RigButt
+    100004: RigButtGizmo
+    100006: RigHead
+    100008: RigHeadGizmo
+    100010: RigLLegBack1
+    100012: RigLLegBack2
+    100014: RigLLegBack3
+    100016: RigLLegBack4
+    100018: RigLLegBackAnkle
+    100020: RigLLegBackPlatform
+    100022: RigLLegCtr1
+    100024: RigLLegCtr2
+    100026: RigLLegCtr3
+    100028: RigLLegCtr4
+    100030: RigLLegCtrAnkle
+    100032: RigLLegCtrPlatform
+    100034: RigLLegFront1
+    100036: RigLLegFront2
+    100038: RigLLegFront3
+    100040: RigLLegFront4
+    100042: RigLLegFrontAnkle
+    100044: RigLLegFrontPlatform
+    100046: RigLLegMid1
+    100048: RigLLegMid2
+    100050: RigLLegMid3
+    100052: RigLLegMid4
+    100054: RigLLegMidAnkle
+    100056: RigLLegMidPlatform
+    100058: RigMouthL01
+    100060: RigMouthL01Gizmo
+    100062: RigMouthL02
+    100064: RigMouthL02Gizmo
+    100066: RigMouthR01
+    100068: RigMouthR01Gizmo
+    100070: RigMouthR02
+    100072: RigMouthR02Gizmo
+    100074: RigNeck
+    100076: RigRibcage
+    100078: RigRibcageGizmo
+    100080: RigRLegBack1
+    100082: RigRLegBack2
+    100084: RigRLegBack3
+    100086: RigRLegBack4
+    100088: RigRLegBackAnkle
+    100090: RigRLegBackPlatform
+    100092: RigRLegCtr1
+    100094: RigRLegCtr2
+    100096: RigRLegCtr3
+    100098: RigRLegCtr4
+    100100: RigRLegCtrAnkle
+    100102: RigRLegCtrPlatform
+    100104: RigRLegFront1
+    100106: RigRLegFront2
+    100108: RigRLegFront3
+    100110: RigRLegFront4
+    100112: RigRLegFrontAnkle
+    100114: RigRLegFrontPlatform
+    100116: RigRLegMid1
+    100118: RigRLegMid2
+    100120: RigRLegMid3
+    100122: RigRLegMid4
+    100124: RigRLegMidAnkle
+    100126: RigRLegMidPlatform
+    100128: RigSpine
+    100130: Spiderling Venom
+    100132: //RootNode
+    400000: Rig
+    400002: RigButt
+    400004: RigButtGizmo
+    400006: RigHead
+    400008: RigHeadGizmo
+    400010: RigLLegBack1
+    400012: RigLLegBack2
+    400014: RigLLegBack3
+    400016: RigLLegBack4
+    400018: RigLLegBackAnkle
+    400020: RigLLegBackPlatform
+    400022: RigLLegCtr1
+    400024: RigLLegCtr2
+    400026: RigLLegCtr3
+    400028: RigLLegCtr4
+    400030: RigLLegCtrAnkle
+    400032: RigLLegCtrPlatform
+    400034: RigLLegFront1
+    400036: RigLLegFront2
+    400038: RigLLegFront3
+    400040: RigLLegFront4
+    400042: RigLLegFrontAnkle
+    400044: RigLLegFrontPlatform
+    400046: RigLLegMid1
+    400048: RigLLegMid2
+    400050: RigLLegMid3
+    400052: RigLLegMid4
+    400054: RigLLegMidAnkle
+    400056: RigLLegMidPlatform
+    400058: RigMouthL01
+    400060: RigMouthL01Gizmo
+    400062: RigMouthL02
+    400064: RigMouthL02Gizmo
+    400066: RigMouthR01
+    400068: RigMouthR01Gizmo
+    400070: RigMouthR02
+    400072: RigMouthR02Gizmo
+    400074: RigNeck
+    400076: RigRibcage
+    400078: RigRibcageGizmo
+    400080: RigRLegBack1
+    400082: RigRLegBack2
+    400084: RigRLegBack3
+    400086: RigRLegBack4
+    400088: RigRLegBackAnkle
+    400090: RigRLegBackPlatform
+    400092: RigRLegCtr1
+    400094: RigRLegCtr2
+    400096: RigRLegCtr3
+    400098: RigRLegCtr4
+    400100: RigRLegCtrAnkle
+    400102: RigRLegCtrPlatform
+    400104: RigRLegFront1
+    400106: RigRLegFront2
+    400108: RigRLegFront3
+    400110: RigRLegFront4
+    400112: RigRLegFrontAnkle
+    400114: RigRLegFrontPlatform
+    400116: RigRLegMid1
+    400118: RigRLegMid2
+    400120: RigRLegMid3
+    400122: RigRLegMid4
+    400124: RigRLegMidAnkle
+    400126: RigRLegMidPlatform
+    400128: RigSpine
+    400130: Spiderling Venom
+    400132: //RootNode
+    4300000: Spiderling Venom
+    7400000: Strafe Left W Root
+    9500000: //RootNode
+    13700000: Spiderling Venom
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Strafe Left W Root
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 3c110477a47177b4692b502d48292b62
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bell
+    100002: DummyLWeapon
+    100004: One Eyed Wizard
+    100006: //RootNode
+    100008: Rig
+    100010: RigBottom1
+    100012: RigBottom1Gizmo
+    100014: RigBottom2
+    100016: RigBottom2Gizmo
+    100018: RigBottom3
+    100020: RigBottom3Gizmo
+    100022: RigHead
+    100024: RigHeadGizmo
+    100026: RigLArm1
+    100028: RigLArm1Gizmo
+    100030: RigLArm2
+    100032: RigLArm2Gizmo
+    100034: RigLArmCollarbone
+    100036: RigLArmIndex1
+    100038: RigLArmIndex2
+    100040: RigLArmIndex3
+    100042: RigLArmMiddle1
+    100044: RigLArmMiddle2
+    100046: RigLArmMiddle3
+    100048: RigLArmPalm
+    100050: RigLArmPalmGizmo
+    100052: RigLArmThumb1
+    100054: RigLArmThumb2
+    100056: RigLSleeves
+    100058: RigLSleeves 1
+    100060: RigLSleevesGizmo
+    100062: RigLSleevesGizmo 1
+    100064: RigPage01A
+    100066: RigPage01AGizmo
+    100068: RigPage01B
+    100070: RigPage01BGizmo
+    100072: RigPage02A
+    100074: RigPage02AGizmo
+    100076: RigPage02B
+    100078: RigPage02BGizmo
+    100080: RigPage03A
+    100082: RigPage03AGizmo
+    100084: RigPage03B
+    100086: RigPage03BGizmo
+    100088: RigPelvis
+    100090: RigPelvisGizmo
+    100092: RigRArm1
+    100094: RigRArm1Gizmo
+    100096: RigRArm2
+    100098: RigRArm2Gizmo
+    100100: RigRArmCollarbone
+    100102: RigRArmIndex1
+    100104: RigRArmIndex2
+    100106: RigRArmIndex3
+    100108: RigRArmMiddle1
+    100110: RigRArmMiddle2
+    100112: RigRArmMiddle3
+    100114: RigRArmPalm
+    100116: RigRArmPalmGizmo
+    100118: RigRArmThumb1
+    100120: RigRArmThumb2
+    100122: RigRibcage
+    100124: RigRibcageGizmo
+    100126: RigRWeapon
+    100128: RigRWeaponGizmo
+    100130: RigRWeaponLBookA
+    100132: RigRWeaponLBookAGizmo
+    100134: RigRWeaponLBookB
+    100136: RigRWeaponLBookBGizmo
+    100138: RigRWeaponRBookA
+    100140: RigRWeaponRBookAGizmo
+    100142: RigRWeaponRBookB
+    100144: RigRWeaponRBookBGizmo
+    100146: RigSpine1
+    100148: RigSpine2
+    400000: Bell
+    400002: DummyLWeapon
+    400004: One Eyed Wizard
+    400006: //RootNode
+    400008: Rig
+    400010: RigBottom1
+    400012: RigBottom1Gizmo
+    400014: RigBottom2
+    400016: RigBottom2Gizmo
+    400018: RigBottom3
+    400020: RigBottom3Gizmo
+    400022: RigHead
+    400024: RigHeadGizmo
+    400026: RigLArm1
+    400028: RigLArm1Gizmo
+    400030: RigLArm2
+    400032: RigLArm2Gizmo
+    400034: RigLArmCollarbone
+    400036: RigLArmIndex1
+    400038: RigLArmIndex2
+    400040: RigLArmIndex3
+    400042: RigLArmMiddle1
+    400044: RigLArmMiddle2
+    400046: RigLArmMiddle3
+    400048: RigLArmPalm
+    400050: RigLArmPalmGizmo
+    400052: RigLArmThumb1
+    400054: RigLArmThumb2
+    400056: RigLSleeves
+    400058: RigLSleeves 1
+    400060: RigLSleevesGizmo
+    400062: RigLSleevesGizmo 1
+    400064: RigPage01A
+    400066: RigPage01AGizmo
+    400068: RigPage01B
+    400070: RigPage01BGizmo
+    400072: RigPage02A
+    400074: RigPage02AGizmo
+    400076: RigPage02B
+    400078: RigPage02BGizmo
+    400080: RigPage03A
+    400082: RigPage03AGizmo
+    400084: RigPage03B
+    400086: RigPage03BGizmo
+    400088: RigPelvis
+    400090: RigPelvisGizmo
+    400092: RigRArm1
+    400094: RigRArm1Gizmo
+    400096: RigRArm2
+    400098: RigRArm2Gizmo
+    400100: RigRArmCollarbone
+    400102: RigRArmIndex1
+    400104: RigRArmIndex2
+    400106: RigRArmIndex3
+    400108: RigRArmMiddle1
+    400110: RigRArmMiddle2
+    400112: RigRArmMiddle3
+    400114: RigRArmPalm
+    400116: RigRArmPalmGizmo
+    400118: RigRArmThumb1
+    400120: RigRArmThumb2
+    400122: RigRibcage
+    400124: RigRibcageGizmo
+    400126: RigRWeapon
+    400128: RigRWeaponGizmo
+    400130: RigRWeaponLBookA
+    400132: RigRWeaponLBookAGizmo
+    400134: RigRWeaponLBookB
+    400136: RigRWeaponLBookBGizmo
+    400138: RigRWeaponRBookA
+    400140: RigRWeaponRBookAGizmo
+    400142: RigRWeaponRBookB
+    400144: RigRWeaponRBookBGizmo
+    400146: RigSpine1
+    400148: RigSpine2
+    2300000: Bell
+    3300000: Bell
+    4300000: One Eyed Wizard
+    4300002: Bell
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: One Eyed Wizard
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

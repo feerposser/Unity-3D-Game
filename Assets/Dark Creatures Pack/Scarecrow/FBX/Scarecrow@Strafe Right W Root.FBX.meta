@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 965076de47ab40d4997b7fd25de1618f
+timeCreated: 1549014692
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: DummyRWeapon
+    100002: Pumpkin
+    100004: Rig
+    100006: RigBCloth1
+    100008: RigBCloth1Gizmo
+    100010: RigBCloth2
+    100012: RigBCloth2Gizmo
+    100014: RigFCloth1
+    100016: RigFCloth1Gizmo
+    100018: RigFCloth2
+    100020: RigFCloth2Gizmo
+    100022: RigHead
+    100024: RigHeadGizmo
+    100026: RigLArm1
+    100028: RigLArm1Gizmo
+    100030: RigLArm2
+    100032: RigLArm2Gizmo
+    100034: RigLArmIndex1
+    100036: RigLArmIndex2
+    100038: RigLArmIndex3
+    100040: RigLArmMiddle1
+    100042: RigLArmMiddle2
+    100044: RigLArmMiddle3
+    100046: RigLArmPalm
+    100048: RigLArmPalmGizmo
+    100050: RigLArmPinky1
+    100052: RigLArmPinky2
+    100054: RigLArmPinky3
+    100056: RigLLeg1
+    100058: RigLLeg2
+    100060: RigLLegAnkle
+    100062: RigLLegPlatform
+    100064: RigNeck
+    100066: RigPelvis
+    100068: RigPelvisGizmo
+    100070: RigRArm1
+    100072: RigRArm1Gizmo
+    100074: RigRArm2
+    100076: RigRArm2Gizmo
+    100078: RigRArmIndex1
+    100080: RigRArmIndex2
+    100082: RigRArmIndex3
+    100084: RigRArmMiddle1
+    100086: RigRArmMiddle2
+    100088: RigRArmMiddle3
+    100090: RigRArmPalm
+    100092: RigRArmPalmGizmo
+    100094: RigRArmPinky1
+    100096: RigRArmPinky2
+    100098: RigRArmPinky3
+    100100: RigRibcage
+    100102: RigRibcageGizmo
+    100104: RigRope1
+    100106: RigRope1Gizmo
+    100108: RigRope2
+    100110: RigRope2Gizmo
+    100112: RigRope3
+    100114: RigRope3Gizmo
+    100116: RigRope4
+    100118: RigRope4Gizmo
+    100120: RigRope5
+    100122: RigRope5Gizmo
+    100124: RigSpine1
+    100126: RigSpine2
+    100128: RigSpine3
+    100130: Scarecrow
+    100132: //RootNode
+    400000: DummyRWeapon
+    400002: Pumpkin
+    400004: Rig
+    400006: RigBCloth1
+    400008: RigBCloth1Gizmo
+    400010: RigBCloth2
+    400012: RigBCloth2Gizmo
+    400014: RigFCloth1
+    400016: RigFCloth1Gizmo
+    400018: RigFCloth2
+    400020: RigFCloth2Gizmo
+    400022: RigHead
+    400024: RigHeadGizmo
+    400026: RigLArm1
+    400028: RigLArm1Gizmo
+    400030: RigLArm2
+    400032: RigLArm2Gizmo
+    400034: RigLArmIndex1
+    400036: RigLArmIndex2
+    400038: RigLArmIndex3
+    400040: RigLArmMiddle1
+    400042: RigLArmMiddle2
+    400044: RigLArmMiddle3
+    400046: RigLArmPalm
+    400048: RigLArmPalmGizmo
+    400050: RigLArmPinky1
+    400052: RigLArmPinky2
+    400054: RigLArmPinky3
+    400056: RigLLeg1
+    400058: RigLLeg2
+    400060: RigLLegAnkle
+    400062: RigLLegPlatform
+    400064: RigNeck
+    400066: RigPelvis
+    400068: RigPelvisGizmo
+    400070: RigRArm1
+    400072: RigRArm1Gizmo
+    400074: RigRArm2
+    400076: RigRArm2Gizmo
+    400078: RigRArmIndex1
+    400080: RigRArmIndex2
+    400082: RigRArmIndex3
+    400084: RigRArmMiddle1
+    400086: RigRArmMiddle2
+    400088: RigRArmMiddle3
+    400090: RigRArmPalm
+    400092: RigRArmPalmGizmo
+    400094: RigRArmPinky1
+    400096: RigRArmPinky2
+    400098: RigRArmPinky3
+    400100: RigRibcage
+    400102: RigRibcageGizmo
+    400104: RigRope1
+    400106: RigRope1Gizmo
+    400108: RigRope2
+    400110: RigRope2Gizmo
+    400112: RigRope3
+    400114: RigRope3Gizmo
+    400116: RigRope4
+    400118: RigRope4Gizmo
+    400120: RigRope5
+    400122: RigRope5Gizmo
+    400124: RigSpine1
+    400126: RigSpine2
+    400128: RigSpine3
+    400130: Scarecrow
+    400132: //RootNode
+    2300000: Pumpkin
+    3300000: Pumpkin
+    4300000: Scarecrow
+    4300002: Pumpkin
+    7400000: Strafe Right W Root
+    9500000: //RootNode
+    13700000: Scarecrow
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Strafe Right W Root
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

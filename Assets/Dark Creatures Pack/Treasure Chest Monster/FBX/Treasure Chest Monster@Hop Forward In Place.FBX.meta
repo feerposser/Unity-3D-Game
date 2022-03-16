@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 4a1daa1409bccb84992e1a219058c7e9
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Rig
+    100002: RigBottom
+    100004: RigBottomGizmo
+    100006: RigCover
+    100008: RigCoverGizmo
+    100010: RigLHandle
+    100012: RigLHandleGizmo
+    100014: RigRHandle
+    100016: RigRHandleGizmo
+    100018: RigSpine
+    100020: RigTongue1
+    100022: RigTongue1Gizmo
+    100024: RigTongue2
+    100026: RigTongue2Gizmo
+    100028: RigTongue3
+    100030: RigTongue3Gizmo
+    100032: RigTongue4
+    100034: RigTongue4Gizmo
+    100036: RigTongue5
+    100038: RigTongue5Gizmo
+    100040: RigTop
+    100042: RigTopGizmo
+    100044: Treasure Chest Monster
+    100046: //RootNode
+    400000: Rig
+    400002: RigBottom
+    400004: RigBottomGizmo
+    400006: RigCover
+    400008: RigCoverGizmo
+    400010: RigLHandle
+    400012: RigLHandleGizmo
+    400014: RigRHandle
+    400016: RigRHandleGizmo
+    400018: RigSpine
+    400020: RigTongue1
+    400022: RigTongue1Gizmo
+    400024: RigTongue2
+    400026: RigTongue2Gizmo
+    400028: RigTongue3
+    400030: RigTongue3Gizmo
+    400032: RigTongue4
+    400034: RigTongue4Gizmo
+    400036: RigTongue5
+    400038: RigTongue5Gizmo
+    400040: RigTop
+    400042: RigTopGizmo
+    400044: Treasure Chest Monster
+    400046: //RootNode
+    4300000: Treasure Chest Monster
+    7400000: Hop Forward In Place
+    9500000: //RootNode
+    13700000: Treasure Chest Monster
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Hop Forward In Place
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

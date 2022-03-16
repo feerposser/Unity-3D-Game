@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: ac0ba24b46ebba245a39b5266fc899c8
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Dark Treant
+    100002: //RootNode
+    100004: RigHeadGizmo
+    100006: RigLArm1Gizmo
+    100008: RigLArm2Gizmo
+    100010: RigMouthLowGizmo
+    100012: RigMouthUpGizmo
+    100014: RigPelvisGizmo
+    100016: RigRArm1Gizmo
+    100018: RigRArm2Gizmo
+    100020: w
+    100022: wHead
+    100024: wLArm1
+    100026: wLArm2
+    100028: wLLegBack1
+    100030: wLLegBack2
+    100032: wLLegBackAnkle
+    100034: wLLegBackPlatform
+    100036: wLLegFront1
+    100038: wLLegFront2
+    100040: wLLegFrontAnkle
+    100042: wLLegFrontPlatform
+    100044: wPelvis
+    100046: wRArm1
+    100048: wRArm2
+    100050: wRLegBack1
+    100052: wRLegBack2
+    100054: wRLegBackAnkle
+    100056: wRLegBackPlatform
+    100058: wRLegFront1
+    100060: wRLegFront2
+    100062: wRLegFrontAnkle
+    100064: wRLegFrontPlatform
+    100066: wSpine
+    100068: Rig
+    100070: RigHead
+    100072: RigLArm1
+    100074: RigLArm2
+    100076: RigLLegBack1
+    100078: RigLLegBack2
+    100080: RigLLegBackAnkle
+    100082: RigLLegBackPlatform
+    100084: RigLLegFront1
+    100086: RigLLegFront2
+    100088: RigLLegFrontAnkle
+    100090: RigLLegFrontPlatform
+    100092: RigPelvis
+    100094: RigRArm1
+    100096: RigRArm2
+    100098: RigRLegBack1
+    100100: RigRLegBack2
+    100102: RigRLegBackAnkle
+    100104: RigRLegBackPlatform
+    100106: RigRLegFront1
+    100108: RigRLegFront2
+    100110: RigRLegFrontAnkle
+    100112: RigRLegFrontPlatform
+    100114: RigSpine
+    400000: Dark Treant
+    400002: //RootNode
+    400004: RigHeadGizmo
+    400006: RigLArm1Gizmo
+    400008: RigLArm2Gizmo
+    400010: RigMouthLowGizmo
+    400012: RigMouthUpGizmo
+    400014: RigPelvisGizmo
+    400016: RigRArm1Gizmo
+    400018: RigRArm2Gizmo
+    400020: w
+    400022: wHead
+    400024: wLArm1
+    400026: wLArm2
+    400028: wLLegBack1
+    400030: wLLegBack2
+    400032: wLLegBackAnkle
+    400034: wLLegBackPlatform
+    400036: wLLegFront1
+    400038: wLLegFront2
+    400040: wLLegFrontAnkle
+    400042: wLLegFrontPlatform
+    400044: wPelvis
+    400046: wRArm1
+    400048: wRArm2
+    400050: wRLegBack1
+    400052: wRLegBack2
+    400054: wRLegBackAnkle
+    400056: wRLegBackPlatform
+    400058: wRLegFront1
+    400060: wRLegFront2
+    400062: wRLegFrontAnkle
+    400064: wRLegFrontPlatform
+    400066: wSpine
+    400068: Rig
+    400070: RigHead
+    400072: RigLArm1
+    400074: RigLArm2
+    400076: RigLLegBack1
+    400078: RigLLegBack2
+    400080: RigLLegBackAnkle
+    400082: RigLLegBackPlatform
+    400084: RigLLegFront1
+    400086: RigLLegFront2
+    400088: RigLLegFrontAnkle
+    400090: RigLLegFrontPlatform
+    400092: RigPelvis
+    400094: RigRArm1
+    400096: RigRArm2
+    400098: RigRLegBack1
+    400100: RigRLegBack2
+    400102: RigRLegBackAnkle
+    400104: RigRLegBackPlatform
+    400106: RigRLegFront1
+    400108: RigRLegFront2
+    400110: RigRLegFrontAnkle
+    400112: RigRLegFrontPlatform
+    400114: RigSpine
+    4300000: Dark Treant
+    7400000: Walk Forward In Place
+    9500000: //RootNode
+    13700000: Dark Treant
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk Forward In Place
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

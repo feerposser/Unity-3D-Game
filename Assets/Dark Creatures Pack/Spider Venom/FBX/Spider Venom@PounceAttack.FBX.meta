@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 9c989afb2094b4949b34ff0fe24c3124
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Rig
+    100002: RigBackside
+    100004: RigBacksideGizmo
+    100006: RigHead
+    100008: RigHeadGizmo
+    100010: RigHeadLMouth01
+    100012: RigHeadLMouth01Gizmo
+    100014: RigHeadLMouth02
+    100016: RigHeadLMouth02Gizmo
+    100018: RigHeadRMouth01
+    100020: RigHeadRMouth01Gizmo
+    100022: RigHeadRMouth02
+    100024: RigHeadRMouth02Gizmo
+    100026: RigLArm1
+    100028: RigLArm1Gizmo
+    100030: RigLArm2
+    100032: RigLArm2Gizmo
+    100034: RigLArmFinger1
+    100036: RigLArmFinger2
+    100038: RigLArmFinger3
+    100040: RigLArmPalm
+    100042: RigLArmPalmGizmo
+    100044: RigLLegBack1
+    100046: RigLLegBack2
+    100048: RigLLegBack3
+    100050: RigLLegBack4
+    100052: RigLLegBackAnkle
+    100054: RigLLegBackPlatform
+    100056: RigLLegFront1
+    100058: RigLLegFront2
+    100060: RigLLegFront3
+    100062: RigLLegFront4
+    100064: RigLLegFrontAnkle
+    100066: RigLLegFrontPlatform
+    100068: RigLLegMid1
+    100070: RigLLegMid1 1
+    100072: RigLLegMid2
+    100074: RigLLegMid2 1
+    100076: RigLLegMid3
+    100078: RigLLegMid3 1
+    100080: RigLLegMid4
+    100082: RigLLegMid4 1
+    100084: RigLLegMidAnkle
+    100086: RigLLegMidAnkle 1
+    100088: RigLLegMidPlatform
+    100090: RigLLegMidPlatform 1
+    100092: RigNeck
+    100094: RigRArm1
+    100096: RigRArm1Gizmo
+    100098: RigRArm2
+    100100: RigRArm2Gizmo
+    100102: RigRArmFinger1
+    100104: RigRArmFinger2
+    100106: RigRArmFinger3
+    100108: RigRArmPalm
+    100110: RigRArmPalmGizmo
+    100112: RigRibcage
+    100114: RigRibcageGizmo
+    100116: RigRLegBack1
+    100118: RigRLegBack2
+    100120: RigRLegBack3
+    100122: RigRLegBack4
+    100124: RigRLegBackAnkle
+    100126: RigRLegBackPlatform
+    100128: RigRLegFront1
+    100130: RigRLegFront2
+    100132: RigRLegFront3
+    100134: RigRLegFront4
+    100136: RigRLegFrontAnkle
+    100138: RigRLegFrontPlatform
+    100140: RigSpine
+    100142: Spider Venom
+    100144: //RootNode
+    400000: Rig
+    400002: RigBackside
+    400004: RigBacksideGizmo
+    400006: RigHead
+    400008: RigHeadGizmo
+    400010: RigHeadLMouth01
+    400012: RigHeadLMouth01Gizmo
+    400014: RigHeadLMouth02
+    400016: RigHeadLMouth02Gizmo
+    400018: RigHeadRMouth01
+    400020: RigHeadRMouth01Gizmo
+    400022: RigHeadRMouth02
+    400024: RigHeadRMouth02Gizmo
+    400026: RigLArm1
+    400028: RigLArm1Gizmo
+    400030: RigLArm2
+    400032: RigLArm2Gizmo
+    400034: RigLArmFinger1
+    400036: RigLArmFinger2
+    400038: RigLArmFinger3
+    400040: RigLArmPalm
+    400042: RigLArmPalmGizmo
+    400044: RigLLegBack1
+    400046: RigLLegBack2
+    400048: RigLLegBack3
+    400050: RigLLegBack4
+    400052: RigLLegBackAnkle
+    400054: RigLLegBackPlatform
+    400056: RigLLegFront1
+    400058: RigLLegFront2
+    400060: RigLLegFront3
+    400062: RigLLegFront4
+    400064: RigLLegFrontAnkle
+    400066: RigLLegFrontPlatform
+    400068: RigLLegMid1
+    400070: RigLLegMid1 1
+    400072: RigLLegMid2
+    400074: RigLLegMid2 1
+    400076: RigLLegMid3
+    400078: RigLLegMid3 1
+    400080: RigLLegMid4
+    400082: RigLLegMid4 1
+    400084: RigLLegMidAnkle
+    400086: RigLLegMidAnkle 1
+    400088: RigLLegMidPlatform
+    400090: RigLLegMidPlatform 1
+    400092: RigNeck
+    400094: RigRArm1
+    400096: RigRArm1Gizmo
+    400098: RigRArm2
+    400100: RigRArm2Gizmo
+    400102: RigRArmFinger1
+    400104: RigRArmFinger2
+    400106: RigRArmFinger3
+    400108: RigRArmPalm
+    400110: RigRArmPalmGizmo
+    400112: RigRibcage
+    400114: RigRibcageGizmo
+    400116: RigRLegBack1
+    400118: RigRLegBack2
+    400120: RigRLegBack3
+    400122: RigRLegBack4
+    400124: RigRLegBackAnkle
+    400126: RigRLegBackPlatform
+    400128: RigRLegFront1
+    400130: RigRLegFront2
+    400132: RigRLegFront3
+    400134: RigRLegFront4
+    400136: RigRLegFrontAnkle
+    400138: RigRLegFrontPlatform
+    400140: RigSpine
+    400142: Spider Venom
+    400144: //RootNode
+    4300000: Spider Venom
+    7400000: PounceAttack
+    9500000: //RootNode
+    13700000: Spider Venom
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PounceAttack
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
